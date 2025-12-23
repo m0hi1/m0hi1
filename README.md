@@ -13,7 +13,7 @@ Building **smart, scalable, cross-platform products** with performance, UX, and 
 ## 🔍 About Me
 
 - 🎯 Passionate about full-stack dev and entrepreneurship 
-- 💼 Building **Courseloft** and other SaaS tools  
+- 💼 Building **Com2Com** and other SaaS tools  
 - 📱 Cross-platform lover: Web, Android, iOS  
 - 🛠️ Freelancing + full-stack development
 - 🧠 Continuous learner of product-led tech
