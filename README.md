@@ -1,5 +1,6 @@
 <!-- Banner -->
 <div align="center">
+    <img src="https://github.com/m0hi1/Assets/blob/main/cover-m.png?raw=true" width="100%" alt="Banner" />
   <img src="https://github.com/m0hi1/Assets/blob/main/cover.png?raw=true" width="100%" alt="Banner" />
 </div>
 
