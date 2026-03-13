@@ -14,7 +14,7 @@ Building **smart, fast and scalable cross-platform products** with performance, 
 
 - 🎯 Passionate about full-stack dev and entrepreneurship 
 - 💼 Building **Com2Com** and other SaaS tools  
-- 📱 Cross-platform lover: Web, Android, iOS  
+- 📱 Cross-platform: Flutter 
 - 🛠️ Freelancing + full-stack development
 - 🧠 Continuous learner of product-led tech
 
