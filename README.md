@@ -134,10 +134,10 @@ Building **smart, fast and scalable cross-platform products** with performance, 
   <a href="https://linkedin.com/in/m0hi1">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://m0hitr.web.app">
+  <a href="https://www.buildwithmohit.me">
     <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=web&logoColor=white" />
   </a>
-  <a href="https://twitter.com/m0hi1r">
+  <a href="https://x.com/buildwitmohit">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
